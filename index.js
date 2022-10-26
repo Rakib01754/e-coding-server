@@ -19,7 +19,8 @@ app.get('/course/:id', (req, res) => {
     const id = req.params.id;
     const course = courses.find(c => c.id == id);
     res.send(course);
-})
+});
+
 app.listen(port, () => {
     console.log(`e-coding app listening on port ${port}`)
 })

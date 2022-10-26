@@ -27,6 +27,7 @@
             "Read and write JavaScript syntax"
         ],
         "name": "JavaScript",
+        "price": "99.99 $",
         "about": "The JavaScript programming language is fun and flexible. It’s one of the core technologies of web development and can be used on both the front-end and the back-end."
     },
     {
@@ -42,6 +43,7 @@
             "Create classes and objects"
         ],
         "name": "PHP",
+        "price": "82.99 $",
         "about": "PHP is a general-purpose scripting language widely used as a server-side language for creating dynamic web pages. Though its reputation is mixed, PHP is still extremely popular and is used in over 75% of all websites where the server-side programming language is known."
     },
     {
@@ -57,6 +59,7 @@
             "you’ll hone your knowledge and programming skillset with quizzes and real-world projects."
         ],
         "name": "Kotlin",
+        "price": "70.99 $",
         "about": "Kotlin is a modern, general-purpose programming language developed by JetBrains. Its full compatibility with Java and concise syntax makes it an appealing language for web development, Android development, and more."
     },
     {
@@ -72,6 +75,7 @@
             "Learn object-oriented programming"
         ],
         "name": "C#",
+        "price": "85.99 $",
         "about": "C# is one of the most popular programming languages. It can be used for a variety of things, including mobile applications, game development, and enterprise software. Knowing C# opens a great deal of doors for you as a developer."
     },
     {
@@ -87,6 +91,7 @@
             "Build C++ projects"
         ],
         "name": "C++",
+        "price": "80.99 $",
         "about": "C++ is a very popular language for performance-critical applications that rely on speed and efficient memory management. It’s used in a wide range of industries including software and game development, VR, robotics, and scientific computing."
     }
 ]
