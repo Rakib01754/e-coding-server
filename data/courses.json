@@ -3,7 +3,8 @@
         "id": "01",
         "title": "Learn Phython",
         "picture": "https://i.postimg.cc/j24n2jQM/phython.png",
-        "duration": "6 Months",
+        "detail_pic": "https://i.postimg.cc/K8ZBFqL6/phython.png",
+        "duration": "1 Year",
         "details": "If you’re looking for a programming language that’s flexible and easy to read, try learning Python. It’s one of the most popular languages today, and programming in Python is used for everything from web and software development to data science and analytics to quality assurance.",
         "skills": [
             "Write Python 3 programs",
@@ -17,7 +18,8 @@
         "id": "02",
         "title": "Learn Javascript",
         "picture": "https://i.postimg.cc/h4zCvRmc/javascript.png",
-        "duration": "4 Months",
+        "detail_pic": "https://i.postimg.cc/Kcw3wppc/javascript.png",
+        "duration": "6 Months",
         "details": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
         "skills": [
             "Build core programming concepts",
@@ -31,7 +33,8 @@
         "id": "03",
         "title": "Learn PHP",
         "picture": "https://i.postimg.cc/fbs4jTxc/What-is-PHP-for-Web-Development.jpg",
-        "duration": "4 Months",
+        "detail_pic": "https://i.postimg.cc/MZMYrFbt/Php.jpg",
+        "duration": "6 Months",
         "details": "PHP is a widely used server-side scripting language that has become increasingly fast and powerful through the years. You can also use it on the front-end since PHP can be embedded right into HTML. These features make learning PHP a great option for any web developer. In this course, you’ll work through PHP fundamental programming concepts and gain the skills necessary to develop programs in PHP.",
         "skills": [
             "Fundamental programming concepts",
@@ -45,6 +48,7 @@
         "id": "04",
         "title": "Learn Kotlin",
         "picture": "https://i.postimg.cc/CK5G2bHS/kotlin.png",
+        "detail_pic": "https://i.postimg.cc/MKBdXFnX/kotlin.png",
         "duration": "6 Months",
         "details": "Kotlin is a modern, expressive programming language made with developers in mind. Concise, open-source, and safe, Kotlin is a popular language for Android development, web development, and more.",
         "skills": [
@@ -59,6 +63,7 @@
         "id": "05",
         "title": "Learn C#",
         "picture": "https://i.postimg.cc/qMKyymbf/Csharp.jpg",
+        "detail_pic": "https://i.postimg.cc/KYDny7kq/Csharp.jpg",
         "duration": "1 Year",
         "details": "The C# programming language offers flexible and comprehensive libraries that make it easy to work across operating systems. That’s why it’s widely used by companies like Microsoft and Stack Overflow. Whether you want to develop websites, apps, video games, or virtual reality, building your foundation is key. In this course, you’ll learn C# basics so you can become a more versatile programmer.",
         "skills": [
@@ -73,7 +78,8 @@
         "id": "06",
         "title": "Learn C++",
         "picture": "https://i.postimg.cc/NGH5zK1m/CPP.jpg",
-        "duration": "3 Months",
+        "detail_pic": "https://i.postimg.cc/x1q78Cy3/CPP.jpg",
+        "duration": "1 Year",
         "details": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
         "skills": [
             "Build core programming concepts",
